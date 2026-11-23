@@ -22,5 +22,15 @@
         "link"
       ]
     ]
-  ]
+  ],
+  "configuration": {
+    "Q3": {
+      "paired": "X-C20",
+      "build": "8f41"
+    },
+    "Q4": {
+      "paired": "Y-C22",
+      "build": "8f41"
+    }
+  }
 }

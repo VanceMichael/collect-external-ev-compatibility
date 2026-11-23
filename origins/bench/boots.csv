@@ -1,5 +1,5 @@
-boot,unit,build,series,mode,power,at
-B2,T9,71dc,X,远程,独立,14
-B3,T9,8f41,X,远程,独立,20
-B4,T9,8f41,Y,本地,台供,31
-B5,T9,8f41,X,远程,台供,44
+boot,unit,build,series,mode,power,at,paired
+B2,T9,71dc,X,远程,独立,14,X-C20
+B3,T9,8f41,X,远程,独立,20,X-C20
+B4,T9,8f41,Y,本地,台供,31,Y-C22
+B5,T9,8f41,X,远程,台供,44,X-C21
