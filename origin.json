@@ -1,0 +1,14 @@
+{
+  "title": "外厂车载终端配对的现场采集与复试交接",
+  "sources": [
+    "/supplier/releases.html",
+    "/supplier/withdraw.json",
+    "/bench/boots.csv",
+    "/bench/blocks.json",
+    "/dispatch/requests.json",
+    "/dispatch/stands.json",
+    "/bench/follow-up.json"
+  ],
+  "forms": [],
+  "range_sources": []
+}
